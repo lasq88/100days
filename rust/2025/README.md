@@ -10,4 +10,4 @@ As "learn Rust" is a pretty vague goal, I decided to focus on a more specific go
 
 # Days
 
-* (Day 1)[day1.md]
+* [Day 1](day1.md)
