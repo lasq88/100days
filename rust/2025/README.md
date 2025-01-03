@@ -6,7 +6,7 @@ In 2025 I wanted to try something new. In addition to a traditional 100 days of 
 
 ## Goal
 
-As "learn Rust" is a pretty vague goal, I decided to focus on a more specific goal of learning Rust for Linux system programming. Therefore most of the challenges I will do in next 100 days will be focus at this specific aspect.
+As "learn Rust" is a pretty vague goal, I decided to focus on a more specific goal of learning Rust for Linux system programming. Therefore, most of the challenges I will undertake in the next 100 days will focus on this specific aspect.
 
 ## My background
 
