@@ -8,7 +8,12 @@ In 2025 I wanted to try something new. In addition to a traditional 100 days of 
 
 As "learn Rust" is a pretty vague goal, I decided to focus on a more specific goal of learning Rust for Linux system programming. Therefore most of the challenges I will do in next 100 days will be focus at this specific aspect.
 
+## My background
+
+I am by no means a Software Engineer, I am an Incident Responder, turned Malware Analyst, turned CTI analyst and have a limited experience with programming. I mostly use Python in my everyday tasks, but have some knowledge of C and JavaScript as well. I will probably do some references to Python in these notes, as this is a language I feel most comfortable with.
+
 # Days
 
 * [Day 1 - Using Cargo and Hello World](day1.md)
 * [Day 2 - process listing on Linux](day2.md)
+* [Day 3 - program arguments](day3.md)
