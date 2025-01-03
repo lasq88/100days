@@ -48,7 +48,7 @@ It works! This concludes day 1 of 100 days of Rust challenge. Below you can find
 
 ## Sources
 
-https://rust-lang.github.io/rust-enhanced/
-https://github.com/rust-lang/rust-enhanced
-https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
-https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+* https://rust-lang.github.io/rust-enhanced/
+* https://github.com/rust-lang/rust-enhanced
+* https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
+* https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
