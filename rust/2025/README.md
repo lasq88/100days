@@ -17,3 +17,4 @@ I am by no means a Software Engineer, I am an Incident Responder, turned Malware
 * [Day 1 - Using Cargo and Hello World](day1.md)
 * [Day 2 - process listing on Linux](day2.md)
 * [Day 3 - program arguments](day3.md)
+* [Day 4 - writing to files](day4.md)
