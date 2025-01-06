@@ -1,4 +1,4 @@
-# Day 5 - cp program using syscalls
+# Day 6 - cp program using syscalls
 
 So far we used only safe Rust libraries to perform all the operations. While this is definitely recommended, if we want to learn system programming, we sometimes need to come down directly to an unsafe syscall level. Today we will implement the same program from day5 but using Linux syscalls.
 
