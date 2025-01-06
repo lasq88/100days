@@ -19,3 +19,4 @@ I am by no means a Software Engineer, I am an Incident Responder, turned Malware
 * [Day 3 - program arguments](day3.md)
 * [Day 4 - writing to files](day4.md)
 * [Day 5 - cp program and user input](day5.md)
+* [Day 5 - cp program using syscalls](day6.md)
