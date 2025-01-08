@@ -21,3 +21,4 @@ I am by no means a Software Engineer, I am an Incident Responder, turned Malware
 * [Day 5 - cp program and user input](day5.md)
 * [Day 6 - cp program using syscalls](day6.md)
 * [Day 7 - creating new processes and process info](day7.md)
+* [Day 8 - fork and measuring time](day8.md)
